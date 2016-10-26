@@ -7,9 +7,9 @@ This is the basic structure that I'll try to use to devellop this study guide:
 
 ```
 Basic Knowledge 10,000 hours
-5 year plan (lazy)
-3 year (normal)
-2 year (hardcore)
+5 year (lazy) 1:1
+3 year (normal) 1:0.5
+2 year (hardcore) 1:.4
 ```
 
 ### I - Foundational
@@ -61,7 +61,6 @@ Basic Knowledge 10,000 hours
 *	Advanced Neural Networks (ANN-II) 120h (TBP)
 *	Projects of Neural Networks (ANN-III)  120h (TBP)
 
-
 ### IV - Complementary Activities 
 *	Tutorial: Python 20h (pr 6.001)
 *	Tutorial: Emacs 20h 
@@ -75,9 +74,8 @@ Basic Knowledge 10,000 hours
 *	Coursera: Visual Perception and the Brain 50h
 *	edX: UT.5.04x LAFF: Linear Algebra - Foundations to Frontiers 120h
 *	edX: HarvardX CS50 Introduction to Computer Science 120h
-```
-Total(IV+V): Complete 600h
-```
+
+
 ### I - Foundational
 
 Courses | Duration | Effort
@@ -91,7 +89,7 @@ Courses | Duration | Effort
 [18.062J Mathematics for Computer Science A](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)| 10 weeks | 20 hours/week
 [18.062J Mathematics for Computer Science B](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)| 10 weeks | 20 hours/week
 ```
-Total: Complete 1000h
+Total: 1000h
 ```
 ### II - Core
 
@@ -114,7 +112,7 @@ Courses | Duration | Effort
 [	6.034 Artificial Intelligence (pr 6.046J, 18.06)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)| 20 weeks | 20 hours/week
 
 ```
-Total: Complete 6000h
+Total: 6000h
 ```
 ### III - Elective 
 
@@ -136,5 +134,5 @@ Courses | Duration | Effort
 [CS229 Machine Learning](http://cs229.stanford.edu/)| 6 weeks | 20 hours/week
 
 ```
-Total:Complete 3000h
+Total: 3000h
 ```
