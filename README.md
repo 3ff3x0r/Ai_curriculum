@@ -101,5 +101,9 @@ Courses | Duration | Effort
 [MA101 Mathematical Proof](https://www.amazon.com/How-Prove-Structured-Daniel-Velleman-ebook/dp/B009XBOBL6/ref=mt_kindle?_encoding=UTF8&me=)| 10 weeks | 20 hours/week
 [MA201 Naïve Set Theory](https://www.amazon.com/Naive-Set-Theory-Paul-Halmos/dp/1781394660/ref=sr_1_2?s=books&ie=UTF8&qid=1477488199&sr=1-2)| 10 weeks | 20 hours/week
 [MA301 Number Theory](https://www.amazon.com/Friendly-Introduction-Number-Theory-Silverman-ebook/dp/B00HR7N0HO/ref=mt_kindle?_encoding=UTF8&me=)| 10 weeks | 20 hours/week
-
+[6.001 Structure and Interpretation of Computer Programs A](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)| 10 weeks | 20 hours/week
+[6.001 Structure and Interpretation of Computer Programs B](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)| 10 weeks | 20 hours/week
+[6.001 Structure and Interpretation of Computer Programs C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)| 10 weeks | 20 hours/week
+[18.062J Mathematics for Computer Science A](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)| 10 weeks | 20 hours/week
+[18.062J Mathematics for Computer Science A](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)| 10 weeks | 20 hours/week
 
