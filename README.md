@@ -30,7 +30,7 @@ Basic Knowledge 10,000 hours
 *	[Circuits and Electronics] (#Circuits-and-Electronics)
 *	[Computation Structures] (#Computation-Structures)
 *	[Computer System Engineering] (#Computer-System-Engineering)
-*	[Linear Algebra] (#Linear-Algebra]
+*	[Linear Algebra] (#Linear-Algebra)
 *	[Abstract Algebra] (#Abstract-Algebra)
 *	[Introduction to Probability and Statistics] (#Introduction-to-Probability-and-Statistics)
 *	[Introduction to Algorithms] (#Introduction-to-Algorithms)
