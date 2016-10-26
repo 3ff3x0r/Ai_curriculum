@@ -139,7 +139,7 @@ Total: 780h
 ### IV - Complementary Activities 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Add extra activities]
+[Collect certificates of extra activities]
 ```
 Total: 100h
 ```
