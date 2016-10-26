@@ -134,5 +134,5 @@ Courses | Duration | Effort
 [CS229 Machine Learning](http://cs229.stanford.edu/)| 6 weeks | 20 hours/week
 
 ```
-Total: 3000h
+Total: 1560h
 ```
