@@ -139,7 +139,7 @@ Courses | Duration | Effort
 [6.868J Society of Mind](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
 [PSY114 Biology of Learning and Neural Plasticity](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
 [MCB80x The fundamentals of Neuroscience](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
-[18.315 Combinatorial Theory: Intr to Graph Theory, Extremal and Enumerative Combinatorics](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
+[18.315 Combinatorial Theory](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
 [CS162 Operating Systems](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
 [24.241 Logic I (pr 6.046J)](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
 [6.045J Automata, computability and complexity (pr 6.042, 18.062J)](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
@@ -147,34 +147,5 @@ Courses | Duration | Effort
 [6.876J Advanced Topics in Cryptography (pr 6.875)](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
 [6.050J Information Entropy (pr 8.014)](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
 [CS229 Machine Learning](http://cs229.stanford.edu/)| 6 weeks | 20 hours/week
-
-
-
-
-
-
-
-*	MIT 14.01 Principles of Microeconomics  (pr. 18.014) 120h
-*	Open Yale ECON159 Game Theory (pr. 14.01, 18.05) 120h
-*	MIT 6.868J Society of Mind (gr) 120h
-*	Berkley PSY114 Biology of Learning and Neural Plasticity (120h)
-*	Harvard/EdX MCB80x The fundamentals of Neuroscience  (120h)
-*	Cognitive Science (pr. PSY114, MCB80x) 120h (The Mind's New Science: A History of the Cognitive Revolution by Howard Gardner) 
-*	MIT 18.315 Combinatorial Theory: Intr to Graph Theory, Extremal and Enumerative Combinatorics (gr) 120h
-*	Berkley CS162 Operating Systems (pr. 6.033) 120h
-*	Stanford/OpenEdX Databases (pr. 6.033) 120h
-*	Stanford/OpenEdX Introduction to Computer Networking (pr 18.02,18.05,6.004)  120h
-*	MIT 24.241 Logic for Computer Sciences (pr 6.046J) 120h
-*	MIT 6.045J Automata, computability and complexity (pr 6.042, 18.062J) 120 h
-*	MIT 6.875 Cryptography and Cryptanalysis (pr MA101, 6.046J, 18.05) (Stanford) 120h
-*	MIT 6.876J Advanced Topics in Cryptography (pr 6.875) 120h
-*	MIT 6.050J Information Entropy (pr 8.014) 120h
-*	Berkley CS229 Machine Learning  (pr. 18.06) 120 h
-*	Deep Learning (pr. CS229) 120h (yet to be planned - YTP)
-*	Computer Vision - I  120h (yet to be planned - YTP)
-*	Computer Vision - II 120h (yet to be planned - YTP)
-*	Introduction to Artificial Neural Networks (ANN-I) 120h (yet to be planned - YTP)
-*	Advanced Neural Networks (ANN-II) 120h (yet to be planned - YTP)
-*	Projects of Neural Networks (ANN-III)  120h (yet to be planned - YTP)
 
 
