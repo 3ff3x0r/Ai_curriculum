@@ -69,7 +69,7 @@ Total:Complete 2400h
 *	Minicourse: Emacs 20h 
 *	Minicourse: Latex 60h (pr. Emacs)
 *	Minicourse: How to write a scientific paper 20h (pr. Latex)
-*	Matlab on Ramp (https://matlabacademy.mathworks.com/)
+*	[Matlab on Ramp] (https://matlabacademy.mathworks.com/)
 
 ### V - Enrichment 
 *	Coursera: Medical Neurosciences 260h
