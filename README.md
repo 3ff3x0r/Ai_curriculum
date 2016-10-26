@@ -89,7 +89,7 @@ Courses | Duration | Effort
 [18.062J Mathematics for Computer Science A](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)| 10 weeks | 10 hours/week
 [18.062J Mathematics for Computer Science B](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)| 10 weeks | 10 hours/week
 ```
-Total: 500h
+Total: 800h
 ```
 ### II - Core
 
@@ -139,6 +139,7 @@ Total: 780h
 ### IV - Complementary Activities 
 Courses | Duration | Effort
 :-- | :--: | :--:
+[Add extra activities]
 ```
 Total: 100h
 ```
@@ -151,3 +152,6 @@ Courses | Duration | Effort
 [Visual Perception and the Brain] (https://www.coursera.org/learn/visual-perception) | 5 weeks | 16 hours/week
 [LAFF: Linear Algebra - Foundations to Frontiers] (https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.04x+3T2016/info) | 12 weeks | 16 hours/week
 [CS50 Introduction to Computer Science] (https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  | 9 weeks | 16 hour/week
+```
+Total: 100h
+```
