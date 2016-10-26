@@ -1,4 +1,5 @@
-#Learning the basics about GitHub! Nothing here... keep walking ;-)
+# Nothing here... keep walking ;-)
+## _Learning the basics about GitHub!_
 # My AI PhD Curriculum
 Basic study self guide from multiple online sources to develop a minimum knowledge about Artificial Intelligence, Machine Learning and Neural Networks.
 
