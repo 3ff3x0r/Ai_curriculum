@@ -1,5 +1,5 @@
 #Learning the basics about GitHub! Nothing here... keep walking ;-)
-# Ai_curriculum
+# My AI PhD Curriculum
 Basic study self guide from multiple online sources to develop a minimum knowledge about Artificial Intelligence, Machine Learning and Neural Networks.
 
 This is the basic structure that I'll try to use to devellop this study guide:
