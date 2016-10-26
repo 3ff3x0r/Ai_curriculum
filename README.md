@@ -18,6 +18,7 @@ Basic Knowledge 10,000 hours
 *	[Number Theory] (#number-theory)
 *	[Structure and Interpretation of Computer Programs] (#sicp)
 *	[Mathematics for Computer Science] (#mathematics4cs)
+
 ### II - Core 
 *	[Calculus I] (#calculus-i)
 *	[Analysis I] (#analysis-i)
@@ -35,6 +36,7 @@ Basic Knowledge 10,000 hours
 *	[Introduction to Probability and Statistics] (#Introduction-to-Probability-and-Statistics)
 *	[Introduction to Algorithms] (#Introduction-to-Algorithms)
 *	[Artificial Intelligence] (#Artificial-Intelligence)
+
 ### III - Elective 
 *	MIT 14.01 Principles of Microeconomics  (pr. 18.014) 120h
 *	Open Yale ECON159 Game Theory (pr. 14.01, 18.05) 120h
