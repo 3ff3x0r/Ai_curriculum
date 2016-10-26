@@ -6,20 +6,20 @@ Basic study self guide from multiple online sources to develop a minimum knowled
 This is the basic structure that I'll try to use to devellop this study guide:
 
 ```
-Basic Knowledge 4,000 hours
+Basic Knowledge 4,200 hours
 5 year (lazy) 1:1
 3 year (normal) 1:0.5
 2 year (hardcore) 1:.4
 ```
 
-### I - Foundational
+### I - Foundational (Minimum 500h)
 *	[Mathematical Proof] (#mathematical-proof)
 *	[Naive Set Theory] (#naive-set-theory)
 *	[Number Theory] (#number-theory)
 *	[Structure and Interpretation of Computer Programs] (#sicp)
 *	[Mathematics for Computer Science] (#mathematics4cs)
 
-### II - Core 
+### II - Core (3000h)
 *	[Calculus I] (#calculus-i)
 *	[Analysis I] (#analysis-i)
 *	[Multivariable Calculus] (#multivariable-calculus)
@@ -61,14 +61,14 @@ Basic Knowledge 4,000 hours
 *	Advanced Neural Networks (ANN-II) 120h (TBP)
 *	Projects of Neural Networks (ANN-III)  120h (TBP)
 
-### IV - Complementary Activities 
+### IV - Complementary Activities (Complete 100h)
 *	Tutorial: Python 20h (pr 6.001)
 *	Tutorial: Emacs 20h 
 *	Tutorial: Latex 20h (pr. Emacs)
 *	Tutorial: How to write a scientific paper on Latex 20h (pr. Latex)
 *	Tutorial: [Matlab] (https://matlabacademy.mathworks.com/)
 
-### V - MOOCs 
+### V - MOOCs (Elective)
 *	Coursera: Medical Neurosciences 260h
 *	Coursera: Learning How to Learn: Powerful mental tools to help you master tough subjects 10h
 *	Coursera: Visual Perception and the Brain 50h
@@ -81,7 +81,7 @@ Basic Knowledge 4,000 hours
 Courses | Duration | Effort
 :-- | :--: | :--:
 [MA101 Mathematical Proof](https://www.amazon.com/How-Prove-Structured-Daniel-Velleman-ebook/dp/B009XBOBL6/ref=mt_kindle?_encoding=UTF8&me=)| 10 weeks | 10 hours/week
-[MA201 Naïve Set Theory](https://www.amazon.com/Naive-Set-Theory-Paul-Halmos/dp/1781394660/ref=sr_1_2?s=books&ie=UTF8&qid=1477488199&sr=1-2)| 10 weeks | 10 hours/week
+[MA201 Naive Set Theory](https://www.amazon.com/Naive-Set-Theory-Paul-Halmos/dp/1781394660/ref=sr_1_2?s=books&ie=UTF8&qid=1477488199&sr=1-2)| 10 weeks | 10 hours/week
 [MA301 Number Theory](https://www.amazon.com/Friendly-Introduction-Number-Theory-Silverman-ebook/dp/B00HR7N0HO/ref=mt_kindle?_encoding=UTF8&me=)| 10 weeks | 10 hours/week
 [6.001 Structure and Interpretation of Computer Programs A](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)| 10 weeks | 10 hours/week
 [6.001 Structure and Interpretation of Computer Programs B](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)| 10 weeks | 10 hours/week
@@ -153,5 +153,5 @@ Courses | Duration | Effort
 [LAFF: Linear Algebra - Foundations to Frontiers] (https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.04x+3T2016/info) | 12 weeks | 16 hours/week
 [CS50 Introduction to Computer Science] (https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  | 9 weeks | 16 hour/week
 ```
-Total: 100h
+Total: 680h
 ```
