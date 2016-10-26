@@ -21,7 +21,7 @@ Total: Complete 1000h
 ### II - Core 
 *	MIT 18.014 Calculus I (pr/cc MA101, pr. MA201 or MA301) 200h
 *	MIT 18.100B Analysis I (pr 18.014) 600h
-*	MIT 18.02 Calculus II (pr 18.014) 400h
+*	MIT 18.02 Multivariable Calculus (pr 18.014) 400h
 *	MIT 8.01 Physics I (pr/cc 18.014) 400h
 *	MIT 18.03 Calculus III (pr 18.02) 400h
 *	MIT 8.02 Physics II (pr 18.02) 400h
@@ -104,4 +104,23 @@ Courses | Duration | Effort
 [6.001 Structure and Interpretation of Computer Programs C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)| 10 weeks | 20 hours/week
 [18.062J Mathematics for Computer Science A](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)| 10 weeks | 20 hours/week
 [18.062J Mathematics for Computer Science B](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)| 10 weeks | 20 hours/week
+```
+Total: Complete 1000h
+```
+
+### II - Core
+
+Courses | Duration | Effort
+:-- | :--: | :--:
+[18.014 Calculus I](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 10 weeks | 20 hours/week
+[18.100B Analysis I (pr 18.014)](https://ocw.mit.edu/courses/mathematics/18-100b-analysis-i-fall-2010/)| 10 weeks | 20 hours/week
+[18.02 Multivariable Calculus (pr 18.014)](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-spring-2006/)| 20 weeks | 20 hours/week
+[6.001 Structure and Interpretation of Computer Programs A](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)| 10 weeks | 20 hours/week
+[6.001 Structure and Interpretation of Computer Programs B](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)| 10 weeks | 20 hours/week
+[6.001 Structure and Interpretation of Computer Programs C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)| 10 weeks | 20 hours/week
+[18.062J Mathematics for Computer Science A](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)| 10 weeks | 20 hours/week
+[18.062J Mathematics for Computer Science B](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)| 10 weeks | 20 hours/week
+```
+Total: Complete 1000h
+```
 
