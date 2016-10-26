@@ -6,7 +6,10 @@ Basic study self guide from multiple online sources to develop a minimum knowled
 This is the basic structure that I'll try to use to devellop this study guide:
 
 ```
-Basic Knowledge 10,000 hours = 5 year plan
+Basic Knowledge 10,000 hours
+5 year plan (lazy)
+3 year (normal)
+2 year (hardcore)
 ```
 
 ### I - Foundational
@@ -15,29 +18,23 @@ Basic Knowledge 10,000 hours = 5 year plan
 *	[Number Theory] (#number-theory)
 *	[Structure and Interpretation of Computer Programs] (#sicp)
 *	[Mathematics for Computer Science] (#mathematics4cs)
-```
-Total: Complete 1000h
-```
 ### II - Core 
-*	MIT 18.014 Calculus I (pr/cc MA101, pr. MA201 or MA301) 200h
-*	MIT 18.100B Analysis I (pr 18.014) 600h
-*	MIT 18.02 Multivariable Calculus (pr 18.014) 400h
-*	MIT 8.01 Physics I (pr/cc 18.014) 400h
-*	MIT 18.03 Calculus III (pr 18.02) 400h
-*	MIT 8.02 Physics II (pr 18.02) 400h
-*	MIT 6.02 Introduction to EECS II: Digital Communication Systems (pr 18.02) 400h
-*	MIT 8.03 Physics III (pr 8.02) 400h
-*	MIT 6.002 Circuits and Electronics (pr 8.02,18.03) 400h
-*	MIT 6.004 Computation Structures (pr 6.002) 400h
-*	MIT 6.033 Computer System Engineering (pr 6.004) 400h
-*	MIT 18.06 Linear Algebra (pr 18.02) 400h
-*	Harvard E222 Abstract Algebra (pr 18.06) 400h 
-*	MIT 18.05 Introduction to Probability and Statistics (pr 18.014) 400h
-*	MIT 6.046J Introduction to Algorithms (pr 18.062J) 400h
-*	MIT 6.034 Artificial Intelligence (pr 6.046J, 18.06) 400h
-```
-Total: Complete 6000h
-```
+*	[Calculus I] (#calculus-i)
+*	[Analysis I] (#analysis-i)
+*	[Multivariable Calculus] (#multivariable-calculus)
+*	[Physics I] (#Physics-i)
+*	[Differential Equations] (#Differential-Equations)
+*	[Physics II] (#Physics-ii)
+*	[Introduction to EECS II: Digital Communication Systems] (#EECS-ii)
+*	[Physics III] (#Physics-iii)
+*	[Circuits and Electronics] (#Circuits-and-Electronics)
+*	[Computation Structures] (#Computation-Structures)
+*	[Computer System Engineering] (#Computer-System-Engineering)
+*	[Linear Algebra] (#Linear-Algebra]
+*	[Abstract Algebra] (#Abstract-Algebra)
+*	[Introduction to Probability and Statistics] (#Introduction-to-Probability-and-Statistics)
+*	[Introduction to Algorithms] (#Introduction-to-Algorithms)
+*	[Artificial Intelligence] (#Artificial-Intelligence)
 ### III - Elective 
 *	MIT 14.01 Principles of Microeconomics  (pr. 18.014) 120h
 *	Open Yale ECON159 Game Theory (pr. 14.01, 18.05) 120h
@@ -107,7 +104,6 @@ Courses | Duration | Effort
 ```
 Total: Complete 1000h
 ```
-
 ### II - Core
 
 Courses | Duration | Effort
@@ -122,19 +118,13 @@ Courses | Duration | Effort
 [6.02 Introduction to EECS II: Digital Communication Systems (pr 18.02)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/)| 20 weeks | 20 hours/week
 [8.03 Physics III (pr 18.014)](https://ocw.mit.edu/courses/physics/8-03-physics-iii-spring-2003/)| 20 weeks | 20 hours/week
 [6.002 Circuits and Electronics (pr 8.02,18.03)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/)| 20 weeks | 20 hours/week
-[18.062J 6.004 Computation Structures (pr 6.002)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/)| 20 weeks | 20 hours/week
+[6.004 Computation Structures (pr 6.002)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/)| 20 weeks | 20 hours/week
 [6.033 Computer System Engineering (pr 6.004)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/)| 20 weeks | 20 hours/week
 [E222 Abstract Algebra (pr 18.06)](http://wayback.archive-it.org/3671/20150528171650/https://www.extension.harvard.edu/open-learning-initiative/abstract-algebra)| 20 weeks | 20 hours/week
 [18.05 Introduction to Probability and Statistics (pr 18.014)](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)| 20 weeks | 20 hours/week
 [	6.034 Artificial Intelligence (pr 6.046J, 18.06)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)| 20 weeks | 20 hours/week
 
-
-
-
-
-
-
 ```
-Total: Complete 1000h
+Total: Complete 6000h
 ```
 
