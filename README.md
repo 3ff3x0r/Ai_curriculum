@@ -148,4 +148,6 @@ Courses | Duration | Effort
 [6.050J Information Entropy (pr 8.014)](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
 [CS229 Machine Learning](http://cs229.stanford.edu/)| 6 weeks | 20 hours/week
 
-
+```
+Total:Complete 3000h
+```
