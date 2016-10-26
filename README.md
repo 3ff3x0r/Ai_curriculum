@@ -9,19 +9,16 @@ This is the basic structure that I'll try to use to devellop this study guide:
 Basic Knowledge 10,000 hours = 5 year plan
 ```
 
-### I - Foundational (Minimum 5 courses)
-*	Mathematical Proof
-*	Naïve Set Theory
-*	Number Theory
-*	MIT 6.001A Structure and Interpretation of Computer Programs 200h (Structure Interpretation Computer Programs Abelson & Sussman)
-*	MIT 6.001B Structure and Interpretation of Computer Programs 200h (pr. 6.001A)
-*	MIT 6.001C Structure and Interpretation of Computer Programs 200h (pr. 6.001B)
-*	MIT 18.062JA Discrete Mathematics and its Applications (pr/cc 18.014) 200h
-*	MIT 18.062JB Discrete Mathematics and its Applications (pr/cc 18.014) 200h (pr. 18.062JA)
+### I - Foundational
+*	Mathematical Proof (#mathematical-proof)
+*	Naive Set Theory (#naive-set-theory)
+*	Number Theory (#number-theory)
+*	Structure and Interpretation of Computer Programs (#sicp)
+*	Mathematics for Computer Science (#mathematics4cs)
 ```
-Total: 1000h
+Total: Complete 1000h
 ```
-### II - Core (Minimum 15 courses)
+### II - Core 
 *	MIT 18.014 Calculus I (pr/cc MA101, pr. MA201 or MA301) 200h
 *	MIT 18.100B Analysis I (pr 18.014) 600h
 *	MIT 18.02 Calculus II (pr 18.014) 400h
@@ -39,9 +36,9 @@ Total: 1000h
 *	MIT 6.046J Introduction to Algorithms (pr 18.062J) 400h
 *	MIT 6.034 Artificial Intelligence (pr 6.046J, 18.06) 400h
 ```
-Total: 6000h
+Total: Complete 6000h
 ```
-### III - Elective (Minimum 20 courses)
+### III - Elective 
 *	MIT 14.01 Principles of Microeconomics  (pr. 18.014) 120h
 *	Open Yale ECON159 Game Theory (pr. 14.01, 18.05) 120h
 *	MIT 6.868J Society of Mind (gr) 120h
@@ -65,16 +62,16 @@ Total: 6000h
 *	Advanced Neural Networks (ANN-II) 120h (yet to be planned - YTP)
 *	Projects of Neural Networks (ANN-III)  120h (yet to be planned - YTP)
 ```
-Total: 2400h
+Total:Complete 2400h
 ```
-### IV - Complementary Activities (1)
+### IV - Complementary Activities 
 *	Minicourse: Python 20h (pr 6.001)
 *	Minicourse: Emacs 20h 
 *	Minicourse: Latex 60h (pr. Emacs)
 *	Minicourse: How to write a scientific paper 20h (pr. Latex)
 *	Matlab on Ramp (https://matlabacademy.mathworks.com/)
 
-### V - Enrichment (1)
+### V - Enrichment 
 *	Coursera: Medical Neurosciences 260h
 *	Coursera: Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences 40h
 *	Coursera: Introduction to Logic 80h
@@ -93,7 +90,7 @@ Total: 2400h
 *	edx: CS188x_1 Artificial Intelligence 140h
 *	edX: HarvardX CS50 Introduction to Computer Science 120h
 ```
-Total(IV+V): 600h
+Total(IV+V): Complete 600h
 ```
 ### I - Foundational
 
