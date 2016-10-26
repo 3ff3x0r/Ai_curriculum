@@ -10,11 +10,11 @@ Basic Knowledge 10,000 hours = 5 year plan
 ```
 
 ### I - Foundational
-*	Mathematical Proof (#mathematical-proof)
-*	Naive Set Theory (#naive-set-theory)
-*	Number Theory (#number-theory)
-*	Structure and Interpretation of Computer Programs (#sicp)
-*	Mathematics for Computer Science (#mathematics4cs)
+*	[Mathematical Proof] (#mathematical-proof)
+*	[Naive Set Theory] (#naive-set-theory)
+*	[Number Theory] (#number-theory)
+*	[Structure and Interpretation of Computer Programs] (#sicp)
+*	[Mathematics for Computer Science] (#mathematics4cs)
 ```
 Total: Complete 1000h
 ```
