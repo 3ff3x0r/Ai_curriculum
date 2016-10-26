@@ -41,51 +41,39 @@ Basic Knowledge 10,000 hours
 *	[Principles of Microeconomics] (#Principles-of-Microeconomics)
 *	[Game Theory] (#Game-Theory)
 *	[Society of Mind] (#Society-of-Mind)
-*	[Biology of Learning and Neural Plasticity] (#Biology-of-Learning-and-Neural-Plasticity)
 *	[The fundamentals of Neuroscience] (#The-fundamentals-of-Neuroscience)
-*	COG101 Cognitive Science (pr. PSY114, MCB80x) 120h (The Mind's New Science: A History of the Cognitive Revolution by Howard Gardner) 
-*	MIT 18.315 Combinatorial Theory: Intr to Graph Theory, Extremal and Enumerative Combinatorics (gr) 120h
-*	Berkley CS162 Operating Systems (pr. 6.033) 120h
-*	Stanford/OpenEdX Databases (pr. 6.033) 120h
-*	Stanford/OpenEdX Introduction to Computer Networking (pr 18.02,18.05,6.004)  120h
-*	MIT 24.241 Logic for Computer Sciences (pr 6.046J) 120h
-*	MIT 6.045J Automata, computability and complexity (pr 6.042, 18.062J) 120 h
-*	MIT 6.875 Cryptography and Cryptanalysis (pr MA101, 6.046J, 18.05) (Stanford) 120h
-*	MIT 6.876J Advanced Topics in Cryptography (pr 6.875) 120h
-*	MIT 6.050J Information Entropy (pr 8.014) 120h
-*	Berkley CS229 Machine Learning  (pr. 18.06) 120 h
-*	Deep Learning (pr. CS229) 120h (yet to be planned - YTP)
-*	Computer Vision - I  120h (yet to be planned - YTP)
-*	Computer Vision - II 120h (yet to be planned - YTP)
-*	Introduction to Artificial Neural Networks (ANN-I) 120h (yet to be planned - YTP)
-*	Advanced Neural Networks (ANN-II) 120h (yet to be planned - YTP)
-*	Projects of Neural Networks (ANN-III)  120h (yet to be planned - YTP)
+*	[Cognitive Sciences] (#Cognitive-Sciences)
+*	[Combinatorial Theory] (#Combinatorial Theory)
+*	[Operating Systems] (#Operating Systems)
+*	[Logic I] (#Logic-i) 
+*	[Automata, computability and complexity] (Automata-computability-and-complexity)
+*	[Cryptography and Cryptanalysis] (#Cryptography-and-Cryptanalysis)
+*	[Advanced Topics in Cryptography] (#Advanced-Topics-in-Cryptography)
+*	[Information Entropy] (#Information-Entropy)
+*	[Machine Learning]  (#Machine-Learning)
+* Databases (pr. 6.033) 120h (to be planned - TBP)
+* Overview of Big Data, Cloud and IoT (TBP)
+*	Computer Networking (pr 18.02,18.05,6.004)  120h	(TBP)
+* Deep Learning (pr. CS229) 120h (TBP)
+*	Computer Vision - I  120h (TBP)
+*	Computer Vision - II 120h (TBP)
+*	Introduction to Artificial Neural Networks (ANN-I) 120h (TBP)
+*	Advanced Neural Networks (ANN-II) 120h (TBP)
+*	Projects of Neural Networks (ANN-III)  120h (TBP)
 
 
 ### IV - Complementary Activities 
-*	Minicourse: Python 20h (pr 6.001)
-*	Minicourse: Emacs 20h 
-*	Minicourse: Latex 60h (pr. Emacs)
-*	Minicourse: How to write a scientific paper 20h (pr. Latex)
-*	[Matlab on Ramp] (https://matlabacademy.mathworks.com/)
+*	Tutorial: Python 20h (pr 6.001)
+*	Tutorial: Emacs 20h 
+*	Tutorial: Latex 20h (pr. Emacs)
+*	Tutorial: How to write a scientific paper on Latex 20h (pr. Latex)
+*	Tutorial: [Matlab] (https://matlabacademy.mathworks.com/)
 
 ### V - Enrichment 
 *	Coursera: Medical Neurosciences 260h
-*	Coursera: Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences 40h
-*	Coursera: Introduction to Logic 80h
 *	Coursera: Learning How to Learn: Powerful mental tools to help you master tough subjects 10h
-*	Coursera: Machine Learning Foundations: A Case Study Approach 48h
-*	Coursera: Machine Learning: Regression 48h
-*	Coursera: Machine Learning: Classification 48h
-*	Coursera: Machine Learning: Clustering and Retrieval 48h
-*	Coursera: Machine Learning: Recommender System and Dimensionality Reduction 48h
-*	Coursera: Machine Learning: Capstone Project 48h
 *	Coursera: Visual Perception and the Brain 50h
-*	Coursera: Machine Learning (Stanford University) 220h
-*	Coursera: Introduction to Mathematical Thinking 60h
-*	Coursera: Computational Neurosciences 60h
 *	edX: UT.5.04x LAFF: Linear Algebra - Foundations to Frontiers 120h
-*	edx: CS188x_1 Artificial Intelligence 140h
 *	edX: HarvardX CS50 Introduction to Computer Science 120h
 ```
 Total(IV+V): Complete 600h
@@ -133,19 +121,18 @@ Total: Complete 6000h
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[14.01 Principles of Microeconomics  (pr. 18.014)](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
-[ECON159 Game Theory (pr. 14.01, 18.05)](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
-[6.868J Society of Mind](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
-[PSY114 Biology of Learning and Neural Plasticity](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
-[MCB80x The fundamentals of Neuroscience](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
+[14.01 Principles of Microeconomics  (pr. 18.014)](https://ocw.mit.edu/courses/economics/14-01-principles-of-microeconomics-fall-2007/)| 6 weeks | 20 hours/week
+[ECON159 Game Theory (pr. 14.01, 18.05)](http://oyc.yale.edu/economics/econ-159)| 6 weeks | 20 hours/week
+[6.868J Society of Mind](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/)| 6 weeks | 20 hours/week
+[MCB80x The fundamentals of Neuroscience](https://www.mcb80x.org/)| 6 weeks | 20 hours/week
 [COG101 Cognitive Science (pr. PSY114, MCB80x)](https://www.amazon.com/Minds-New-Science-Cognitive-Revolution-ebook/dp/B00CW0PVR8/ref=sr_1_5?s=digital-text&ie=UTF8&qid=1477498702&sr=1-5)| 6 weeks | 20 hours/week
-[18.315 Combinatorial Theory](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
-[CS162 Operating Systems](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
-[24.241 Logic I (pr 6.046J)](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
-[6.045J Automata, computability and complexity (pr 6.042, 18.062J)](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
-[6.875 Cryptography and Cryptanalysis (pr MA101, 6.046J, 18.05)](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
-[6.876J Advanced Topics in Cryptography (pr 6.875)](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
-[6.050J Information Entropy (pr 8.014)](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 6 weeks | 20 hours/week
+[18.315 Combinatorial Theory](https://ocw.mit.edu/courses/mathematics/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/)| 6 weeks | 20 hours/week
+[CS162 Operating Systems](https://cs162.eecs.berkeley.edu/)| 6 weeks | 20 hours/week
+[24.241 Logic I (pr 6.046J)](https://cs162.eecs.berkeley.edu/)| 6 weeks | 20 hours/week
+[6.045J Automata, computability and complexity (pr 6.042, 18.062J)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/)| 6 weeks | 20 hours/week
+[6.875 Cryptography and Cryptanalysis (pr MA101, 6.046J, 18.05)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-875-cryptography-and-cryptanalysis-spring-2005/)| 6 weeks | 20 hours/week
+[6.876J Advanced Topics in Cryptography (pr 6.875)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-876j-advanced-topics-in-cryptography-spring-2003/)| 6 weeks | 20 hours/week
+[6.050J Information Entropy (pr 8.014)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/)| 6 weeks | 20 hours/week
 [CS229 Machine Learning](http://cs229.stanford.edu/)| 6 weeks | 20 hours/week
 
 ```
