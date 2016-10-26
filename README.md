@@ -105,5 +105,5 @@ Courses | Duration | Effort
 [6.001 Structure and Interpretation of Computer Programs B](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)| 10 weeks | 20 hours/week
 [6.001 Structure and Interpretation of Computer Programs C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)| 10 weeks | 20 hours/week
 [18.062J Mathematics for Computer Science A](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)| 10 weeks | 20 hours/week
-[18.062J Mathematics for Computer Science A](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)| 10 weeks | 20 hours/week
+[18.062J Mathematics for Computer Science B](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)| 10 weeks | 20 hours/week
 
