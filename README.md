@@ -9,9 +9,9 @@ Basic Knowledge 10,000 hours = 5 year plan
 ```
 
 ### I - Foundational (Minimum 5 courses)
-*	MA101 Mathematical Proof 200h (How to Prove It: A Structured Approach, 2nd Edition 2nd Edition by Daniel J. Velleman)
-*	MA201 Naïve Set Theory 200h (Naive Set Theory Paperback by Paul R. Halmos)
-*	MA301 Number Theory 200h (A Friendly Introduction to Number Theory (4th Edition)by Joseph H. Silverman)
+*	Mathematical Proof
+*	Naïve Set Theory
+*	Number Theory
 *	MIT 6.001A Structure and Interpretation of Computer Programs 200h (Structure Interpretation Computer Programs Abelson & Sussman)
 *	MIT 6.001B Structure and Interpretation of Computer Programs 200h (pr. 6.001A)
 *	MIT 6.001C Structure and Interpretation of Computer Programs 200h (pr. 6.001B)
@@ -94,3 +94,12 @@ Total: 2400h
 ```
 Total(IV+V): 600h
 ```
+### I - Foundational
+
+Courses | Duration | Effort
+:-- | :--: | :--:
+[MA101 Mathematical Proof](https://www.amazon.com/How-Prove-Structured-Daniel-Velleman-ebook/dp/B009XBOBL6/ref=mt_kindle?_encoding=UTF8&me=)| 10 weeks | 20 hours/week
+[MA201 Naïve Set Theory](https://www.amazon.com/Naive-Set-Theory-Paul-Halmos/dp/1781394660/ref=sr_1_2?s=books&ie=UTF8&qid=1477488199&sr=1-2)| 10 weeks | 20 hours/week
+[MA301 Number Theory](https://www.amazon.com/Friendly-Introduction-Number-Theory-Silverman-ebook/dp/B00HR7N0HO/ref=mt_kindle?_encoding=UTF8&me=)| 10 weeks | 20 hours/week
+
+
