@@ -17,7 +17,7 @@ Basic Knowledge 10,000 hours = 5 year plan
 *	MIT 18.062JA Discrete Mathematics and its Applications (pr/cc 18.014) 200h
 *	MIT 18.062JB Discrete Mathematics and its Applications (pr/cc 18.014) 200h (pr. 18.062JA)
 ```
-Total: 1000h
+Total: 1000h
 ```
 ### II - Core (Minimum 15 courses)
 *	MIT 18.014 Calculus I (pr/cc MA101, pr. MA201 or MA301) 200h
@@ -37,7 +37,7 @@ Total: 1000h
 *	MIT 6.046J Introduction to Algorithms (pr 18.062J) 400h
 *	MIT 6.034 Artificial Intelligence (pr 6.046J, 18.06) 400h
 ```
-Total: 6000h
+Total: 6000h
 ```
 ### III - Elective (Minimum 20 courses)
 *	MIT 14.01 Principles of Microeconomics  (pr. 18.014) 120h
@@ -63,7 +63,7 @@ Total: 6000h
 *	Advanced Neural Networks (ANN-II) 120h (yet to be planned - YTP)
 *	Projects of Neural Networks (ANN-III)  120h (yet to be planned - YTP)
 ```
-Total: 2400h
+Total: 2400h
 ```
 ### IV - Complementary Activities (1)
 *	Minicourse: Python 20h (pr 6.001)
@@ -90,7 +90,6 @@ Total: 2400h
 *	edX: UT.5.04x LAFF: Linear Algebra - Foundations to Frontiers 120h
 *	edx: CS188x_1 Artificial Intelligence 140h
 *	edX: HarvardX CS50 Introduction to Computer Science 120h
-
 ```
 Total(IV+V): 600h
 ```
