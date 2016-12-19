@@ -58,7 +58,7 @@ Completion List
 - [x]	Tutorial: Emacs 20h  ![Progress](http://progressed.io/bar/100?)
 - [ ]	Tutorial: Latex 20h (pr. Emacs) ![Progress](http://progressed.io/bar/0?)
 - [ ]	Tutorial: How to write a scientific paper on Latex 20h (pr. Latex) ![Progress](http://progressed.io/bar/0?)
-- [ ]	Tutorial: [Matlab] 20h (https://matlabacademy.mathworks.com/) ![Progress](http://progressed.io/bar/50?)
+- [ ]	Tutorial: [Matlab] (https://matlabacademy.mathworks.com/) 20h  ![Progress](http://progressed.io/bar/50?)
 
 ### V - MOOCs 
 - [ ]	Coursera: Medical Neurosciences 192h ![Progress](http://progressed.io/bar/0?)
