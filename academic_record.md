@@ -82,4 +82,4 @@ Completion List
 - [ ] Datacenters 10 Serviços Colocat Hostin Telec 30h  ![Progress](http://progressed.io/bar/0?)
 - [ ] Datacenters 11 Traba Con Cur Dat Proj Ope Se 30h  ![Progress](http://progressed.io/bar/0?)
 
-* Total Completion: ![Progress](http://progressed.io/bar/555?scale=4200&suffix=h)  
+* Total Completion: ![Progress](http://progressed.io/bar/575?scale=4200&suffix=h)  
