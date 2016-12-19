@@ -137,7 +137,7 @@ Courses | Duration | Effort
 :-- | :--: | :--:
 [Collect certificates of extra activities]
 ```
-Total: 100h
+Total: h
 ```
 ### V - MOOCs 
 
@@ -151,7 +151,7 @@ Courses | Duration | Effort
 ```
 Total: 680h
 ```
-### V - Other Courses 
+### VI - Other Courses 
 
 Courses | Duration | Effort
 :-- | :--: | :--:
