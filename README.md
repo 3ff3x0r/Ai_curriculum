@@ -35,7 +35,7 @@ Basic Knowledge 4,200 hours
 *	[Introduction to Algorithms] (#Introduction-to-Algorithms)
 *	[Artificial Intelligence] (#Artificial-Intelligence)
 
-### III - Elective 
+### III - Elective (Complete 700h on III - VI)
 *	[Principles of Microeconomics] (#Principles-of-Microeconomics)
 *	[Game Theory] (#Game-Theory)
 *	[Society of Mind] (#Society-of-Mind)
@@ -44,7 +44,7 @@ Basic Knowledge 4,200 hours
 *	[Combinatorial Theory] (#Combinatorial Theory)
 *	[Operating Systems] (#Operating Systems)
 *	[Logic I] (#Logic-i) 
-*	[Automata, computability and complexity] (Automata-computability-and-complexity)
+*	[Automata, computability and complexity] (#Automata-computability-and-complexity)
 *	[Cryptography and Cryptanalysis] (#Cryptography-and-Cryptanalysis)
 *	[Advanced Topics in Cryptography] (#Advanced-Topics-in-Cryptography)
 *	[Information Entropy] (#Information-Entropy)
@@ -59,7 +59,7 @@ Basic Knowledge 4,200 hours
 *	Advanced Neural Networks (ANN-II) 120h (TBP)
 *	Projects of Neural Networks (ANN-III)  120h (TBP)
 
-### IV - Complementary Activities (Complete 100h)
+### IV - Complementary Activities 
 *	Tutorial: Python 20h (pr 6.001)
 *	Tutorial: Emacs 20h 
 *	Tutorial: Latex 20h (pr. Emacs)
