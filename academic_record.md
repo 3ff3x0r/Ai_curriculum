@@ -53,14 +53,14 @@ Completion List
 - [ ] Advanced Neural Networks (ANN-II) 120h (TBP) ![Progress](http://progressed.io/bar/0?)
 - [ ] Projects of Neural Networks (ANN-III)  120h (TBP) ![Progress](http://progressed.io/bar/0?)
 
-### IV - Complementary Activities
+### IV - Complementary Activities (100h)
 - [ ]	Tutorial: Python 20h (pr 6.001) ![Progress](http://progressed.io/bar/0?)
 - [x]	Tutorial: Emacs 20h  ![Progress](http://progressed.io/bar/100?)
 - [ ]	Tutorial: Latex 20h (pr. Emacs) ![Progress](http://progressed.io/bar/0?)
 - [ ]	Tutorial: How to write a scientific paper on Latex 20h (pr. Latex) ![Progress](http://progressed.io/bar/0?)
-- [ ]	Tutorial: [Matlab] (https://matlabacademy.mathworks.com/) ![Progress](http://progressed.io/bar/50?)
+- [ ]	Tutorial: [Matlab] 20h (https://matlabacademy.mathworks.com/) ![Progress](http://progressed.io/bar/50?)
 
-### V - MOOCs (Elective)
+### V - MOOCs 
 - [ ]	Coursera: Medical Neurosciences 192h ![Progress](http://progressed.io/bar/0?)
 - [ ]	Coursera: Learning How to Learn: Powerful mental tools to help you master tough subjects 8h ![Progress](http://progressed.io/bar/0?)
 - [ ]	Coursera: Visual Perception and the Brain 80h ![Progress](http://progressed.io/bar/0?)
