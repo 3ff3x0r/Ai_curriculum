@@ -1,11 +1,15 @@
 Completion List
 
-### I - Foundational (Minimum 500h)
+### I - Foundational (Minimum 5)
 - [ ]	[Mathematical Proof] (#mathematical-proof)   ![progressed](http://progressed.io/bar/15?)
 - [ ]	[Naive Set Theory] (#naive-set-theory) ![Progress](http://progressed.io/bar/0?)
 - [ ]	[Number Theory] (#number-theory) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Structure and Interpretation of Computer Programs] (#sicp) ![Progress](http://progressed.io/bar/30?)
-- [ ]	[Mathematics for Computer Science] (#mathematics4cs) ![Progress](http://progressed.io/bar/0?)
+- [ ]	[Structure and Interpretation of Computer Programs A] (#sicp) ![Progress](http://progressed.io/bar/30?)
+- [ ]	[Structure and Interpretation of Computer Programs B] (#sicp) ![Progress](http://progressed.io/bar/0?)
+- [ ]	[Structure and Interpretation of Computer Programs C] (#sicp) ![Progress](http://progressed.io/bar/0?)
+- [ ]	[Mathematics for Computer Science A] (#mathematics4cs) ![Progress](http://progressed.io/bar/0?)
+- [ ]	[Mathematics for Computer Science B] (#mathematics4cs) ![Progress](http://progressed.io/bar/0?)
+
 
 ### II - Core (3000h)
 - [x]	[Calculus I] (#calculus-i) ![Progress](http://progressed.io/bar/100?)
