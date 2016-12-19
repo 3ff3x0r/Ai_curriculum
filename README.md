@@ -151,3 +151,9 @@ Courses | Duration | Effort
 ```
 Total: 680h
 ```
+### V - Other Courses 
+
+Courses | Duration | Effort
+:-- | :--: | :--:
+```
+Total: h
