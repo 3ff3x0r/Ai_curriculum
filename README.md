@@ -137,9 +137,9 @@ Courses | Duration | Effort
 :-- | :--: | :--:
 [Collect certificates of extra activities]
 ```
-Total: h
+Total: 100h
 ```
-### V - MOOCs 
+### V - MOOCs (Use to eliminate elective and core courses)
 
 Courses | Duration | Effort
 :-- | :--: | :--:
@@ -151,7 +151,7 @@ Courses | Duration | Effort
 ```
 Total: 680h
 ```
-### VI - Other Courses 
+### VI - Other Courses (Use to eliminate elective and core courses)
 
 Courses | Duration | Effort
 :-- | :--: | :--:
