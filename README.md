@@ -135,7 +135,7 @@ Total: 780h
 ### IV - Complementary Activities 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Collect certificates of extra activities]
+[Collect certificates of extra activities on recommended subjects]
 ```
 Total: 100h
 ```
@@ -149,11 +149,11 @@ Courses | Duration | Effort
 [LAFF: Linear Algebra - Foundations to Frontiers] (https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.04x+3T2016/info) | 12 weeks | 16 hours/week
 [CS50 Introduction to Computer Science] (https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  | 9 weeks | 16 hour/week
 ```
-Total: 680h
+Total: 0h
 ```
 ### VI - Other Courses (Use to eliminate elective and core courses)
 
 Courses | Duration | Effort
 :-- | :--: | :--:
 ```
-Total: h
+Total: 0h
