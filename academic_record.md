@@ -61,11 +61,11 @@ Completion List
 - [ ]	Tutorial: [Matlab] (https://matlabacademy.mathworks.com/) ![Progress](http://progressed.io/bar/50?)
 
 ### V - MOOCs (Elective)
-- [ ]	Coursera: Medical Neurosciences 260h ![Progress](http://progressed.io/bar/0?)
-- [ ]	Coursera: Learning How to Learn: Powerful mental tools to help you master tough subjects 10h ![Progress](http://progressed.io/bar/0?)
-- [ ]	Coursera: Visual Perception and the Brain 50h ![Progress](http://progressed.io/bar/0?)
-- [ ]	edX: UT.5.04x LAFF: Linear Algebra - Foundations to Frontiers 120h ![Progress](http://progressed.io/bar/0?)
-- [ ]	edX: HarvardX CS50 Introduction to Computer Science 120h ![Progress](http://progressed.io/bar/0?)
+- [ ]	Coursera: Medical Neurosciences 192h ![Progress](http://progressed.io/bar/0?)
+- [ ]	Coursera: Learning How to Learn: Powerful mental tools to help you master tough subjects 8h ![Progress](http://progressed.io/bar/0?)
+- [ ]	Coursera: Visual Perception and the Brain 80h ![Progress](http://progressed.io/bar/0?)
+- [ ]	edX: UT.5.04x LAFF: Linear Algebra - Foundations to Frontiers 192h ![Progress](http://progressed.io/bar/0?)
+- [ ]	edX: HarvardX CS50 Introduction to Computer Science 144h ![Progress](http://progressed.io/bar/0?)
 
 ### VI - Grad School
 - [x] UFRJ/HCTE Cognição e computação I  60h  ![Progress](http://progressed.io/bar/100?)
