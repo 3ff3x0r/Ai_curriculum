@@ -1,5 +1,3 @@
-# Nothing here... keep walking ;-)
-
 # About
 This study guide is a list of courses to prepare myself to study Artificial Intelligence.
 
