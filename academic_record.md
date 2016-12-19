@@ -49,7 +49,7 @@ Completion List
 - [ ] Deep Learning (pr. CS229) 120h (TBP) ![Progress](http://progressed.io/bar/0?)
 - [ ] Computer Vision - I  120h (TBP) ![Progress](http://progressed.io/bar/0?)
 - [ ] Computer Vision - II 120h (TBP) ![Progress](http://progressed.io/bar/0?)
-- [x] Introduction to Artificial Neural Networks (ANN-I) 120h ![Progress](http://progressed.io/bar/100?)
+- [x] [Introduction to Artificial Neural Networks] (http://anaclise.blogspot.com.br/2016/08/bases-conexionistas-do-machine-learning.html) ![Progress](http://progressed.io/bar/100?)
 - [ ] Advanced Neural Networks (ANN-II) 120h (TBP) ![Progress](http://progressed.io/bar/0?)
 - [ ] Projects of Neural Networks (ANN-III)  120h (TBP) ![Progress](http://progressed.io/bar/0?)
 
