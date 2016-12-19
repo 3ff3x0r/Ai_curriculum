@@ -1,6 +1,6 @@
 Completion List
 
-### I - Foundational (Minimum 5)
+### I - Foundational (minimum 5)
 - [ ]	[Mathematical Proof] (#mathematical-proof)   ![progressed](http://progressed.io/bar/15?)
 - [ ]	[Naive Set Theory] (#naive-set-theory) ![Progress](http://progressed.io/bar/0?)
 - [ ]	[Number Theory] (#number-theory) ![Progress](http://progressed.io/bar/0?)
@@ -11,12 +11,12 @@ Completion List
 - [ ]	[Mathematics for Computer Science B] (#mathematics4cs) ![Progress](http://progressed.io/bar/0?)
 
 
-### II - Core (3000h)
+### II - Core (all 16)
 - [x]	[Calculus I] (#calculus-i) ![Progress](http://progressed.io/bar/100?)
-- [ ]	[Analysis I] (#analysis-i) ![Progress](http://progressed.io/bar/0?)
 - [ ]	[Multivariable Calculus] (#multivariable-calculus) ![Progress](http://progressed.io/bar/0?)
 - [ ]	[Physics I] (#Physics-i) ![Progress](http://progressed.io/bar/0?)
 - [ ]	[Differential Equations] (#Differential-Equations) ![Progress](http://progressed.io/bar/0?)
+- [ ]	[Analysis I] (#analysis-i) ![Progress](http://progressed.io/bar/0?)
 - [ ]	[Physics II] (#Physics-ii) ![Progress](http://progressed.io/bar/0?)
 - [ ]	[Introduction to EECS II: Digital Communication Systems] (#EECS-ii) ![Progress](http://progressed.io/bar/0?)
 - [ ]	[Physics III] (#Physics-iii) ![Progress](http://progressed.io/bar/0?)
@@ -29,7 +29,7 @@ Completion List
 - [ ]	[Introduction to Algorithms] (#Introduction-to-Algorithms) ![Progress](http://progressed.io/bar/0?)
 - [ ]	[Artificial Intelligence] (#Artificial-Intelligence) ![Progress](http://progressed.io/bar/0?)
 
-### III - Elective (III+IV+V+VI=700h)
+### III - Elective (minimum 10)
 - [ ]	[Principles of Microeconomics] (#Principles-of-Microeconomics) ![Progress](http://progressed.io/bar/0?)
 - [ ]	[Game Theory] (#Game-Theory) ![Progress](http://progressed.io/bar/0?)
 - [x]	[Society of Mind] (#Society-of-Mind) ![Progress](http://progressed.io/bar/100?)
