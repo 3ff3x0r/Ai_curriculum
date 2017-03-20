@@ -32,11 +32,10 @@ Courses | Duration | Effort
 [18.06 Linear Algebra (pr 18.014)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)| 20 weeks | 10 hours/week
 [18.100B Analysis I (pr 18.014)](https://ocw.mit.edu/courses/mathematics/18-100b-analysis-i-fall-2010/)| 20 weeks | 10 hours/week
 [18.02 Multivariable Calculus (pr 18.014)](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-spring-2006/)| 20 weeks | 10 hours/week
-[8.01 Physics I (pr 18.014)](https://ocw.mit.edu/courses/physics/8-01-physics-i-fall-2003/)| 20 weeks | 10 hours/week
+[8.01 Physics I (pr 18.014)](http://oyc.yale.edu/physics/phys-200)| 20 weeks | 10 hours/week
 [18.03 Differential Equations (pr 18.02)](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)| 20 weeks | 10 hours/week
-[8.02 Physics II: Electricity and Magnetism (pr 18.02)](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/)| 20 weeks | 10 hours/week
+[8.02 Physics II: Electricity and Magnetism (pr 18.02)](http://oyc.yale.edu/physics/phys-201)| 20 weeks | 10 hours/week
 [6.02 Introduction to EECS II: Digital Communication Systems (pr 18.02)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/)| 20 weeks | 10 hours/week
-[8.03 Physics III (pr 18.014)](https://ocw.mit.edu/courses/physics/8-03-physics-iii-spring-2003/)| 20 weeks | 10 hours/week
 [6.002 Circuits and Electronics (pr 8.02,18.03)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/)| 20 weeks | 10 hours/week
 [6.004 Computation Structures (pr 6.002)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/)| 20 weeks | 10 hours/week
 [6.033 Computer System Engineering (pr 6.004)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/)| 20 weeks | 10 hours/week
