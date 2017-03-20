@@ -8,69 +8,6 @@ Basic Knowledge 4,200 hours
 2 year (hardcore) 50h/week
 ```
 
-### I - Foundational (Minimum 500h)
-*	[Mathematical Proof] (#mathematical-proof)
-*	[Naive Set Theory] (#naive-set-theory)
-*	[Number Theory] (#number-theory)
-*	[Structure and Interpretation of Computer Programs] (#sicp)
-*	[Mathematics for Computer Science] (#mathematics4cs)
-
-### II - Core (3000h)
-*	[Calculus I] (#calculus-i)
-*	[Multivariable Calculus] (#multivariable-calculus)
-*	[Physics I] (#Physics-i)
-*	[Differential Equations] (#Differential-Equations)
-*	[Analysis I] (#analysis-i)
-*	[Physics II] (#Physics-ii)
-*	[Introduction to EECS II: Digital Communication Systems] (#EECS-ii)
-*	[Physics III] (#Physics-iii)
-*	[Circuits and Electronics] (#Circuits-and-Electronics)
-*	[Computation Structures] (#Computation-Structures)
-*	[Computer System Engineering] (#Computer-System-Engineering)
-*	[Linear Algebra] (#Linear-Algebra)
-*	[Abstract Algebra] (#Abstract-Algebra)
-*	[Introduction to Probability and Statistics] (#Introduction-to-Probability-and-Statistics)
-*	[Introduction to Algorithms] (#Introduction-to-Algorithms)
-*	[Artificial Intelligence] (#Artificial-Intelligence)
-
-### III - Elective (Complete 700h on III - VI)
-*	[Principles of Microeconomics] (#Principles-of-Microeconomics)
-*	[Game Theory] (#Game-Theory)
-*	[Society of Mind] (#Society-of-Mind)
-*	[The fundamentals of Neuroscience] (#The-fundamentals-of-Neuroscience)
-*	[Cognitive Sciences] (#Cognitive-Sciences)
-*	[Combinatorial Theory] (#Combinatorial Theory)
-*	[Operating Systems] (#Operating Systems)
-*	[Logic I] (#Logic-i) 
-*	[Automata, computability and complexity] (#Automata-computability-and-complexity)
-*	[Cryptography and Cryptanalysis] (#Cryptography-and-Cryptanalysis)
-*	[Advanced Topics in Cryptography] (#Advanced-Topics-in-Cryptography)
-*	[Information Entropy] (#Information-Entropy)
-*	[Machine Learning]  (#Machine-Learning)
-* Databases (pr. 6.033) 120h (to be planned - TBP)
-* Overview of Big Data, Cloud and IoT (TBP)
-*	Computer Networking (pr 18.02,18.05,6.004)  120h	(TBP)
-* Deep Learning (pr. CS229) 120h (TBP)
-*	Computer Vision - I  120h (TBP)
-*	Computer Vision - II 120h (TBP)
-*	Introduction to Artificial Neural Networks (ANN-I) 120h (TBP)
-*	Advanced Neural Networks (ANN-II) 120h (TBP)
-*	Projects of Neural Networks (ANN-III)  120h (TBP)
-
-### IV - Complementary Activities 
-*	Tutorial: Python 20h (pr 6.001)
-*	Tutorial: Emacs 20h 
-*	Tutorial: Latex 20h (pr. Emacs)
-*	Tutorial: How to write a scientific paper on Latex 20h (pr. Latex)
-*	Tutorial: [Matlab] (https://matlabacademy.mathworks.com/)
-
-### V - MOOCs (Elective)
-*	Coursera: Medical Neurosciences 260h
-*	Coursera: Learning How to Learn: Powerful mental tools to help you master tough subjects 10h
-*	Coursera: Visual Perception and the Brain 50h
-*	edX: UT.5.04x LAFF: Linear Algebra - Foundations to Frontiers 120h
-*	edX: HarvardX CS50 Introduction to Computer Science 120h
-
 
 ### I - Foundational
 
