@@ -80,7 +80,7 @@ Total: 100h
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Medical Neurosciences](https://www.coursera.org/learn/medical-neuroscience) | 12 weeks | 16 hours/week
-[Learning How to Learn: Powerful mental tools to help you master tough subjects] (https://www.coursera.org/learn/learning-how-to-learn) | 1 week | 8 hours/week
+[Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) | 1 week | 8 hours/week
 [Visual Perception and the Brain](https://www.coursera.org/learn/visual-perception) | 5 weeks | 16 hours/week
 [LAFF: Linear Algebra - Foundations to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.04x+3T2016/info) | 12 weeks | 16 hours/week
 [CS50 Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  | 9 weeks | 16 hour/week
