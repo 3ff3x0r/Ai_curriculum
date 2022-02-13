@@ -1,5 +1,5 @@
 # About
-This study guide is a list of courses to prepare myself for the POSCOMP exam.
+This study guide is a list of courses to prepare myself for the POSCOMP exam. Detailed content ar https://github.com/3ff3x0r/awesome-poscomp#conte%C3%BAdo-da-prova-poscomp-2016
 
 ```
 Basic Knowledge 4,200 hours
