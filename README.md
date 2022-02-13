@@ -84,11 +84,11 @@ Courses | Duration | Effort
 [Introduction to Computational Thinking and Data Science](https://learning.edx.org/) | 8 weeks | 8 hours/week
 [CS50 Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  | 9 weeks | 16 hour/week
 ```
-Total: 800h
+Total: 0h
 ```
 ### VI - Other Courses 
 
 Courses | Duration | Effort
 :-- | :--: | :--:
 ```
-Total: 300h
+Total: 0h
