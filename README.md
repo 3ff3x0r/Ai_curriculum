@@ -67,9 +67,11 @@ Total: 720h
 ### IV - Complementary Activities 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[EMACS]
-[LATEX]
-[Python]
+[EMACS](https://www.youtube.com/watch?v=74zOY-vgkyw&list=PLEoMzSkcN8oPH1au7H6B7bBJ4ZO7BXjSZ&index=1&t=0s)| 12 weeks | 4 hours/week
+[LATEX](https://www.youtube.com/watch?v=fCzF5gDy60g&list=PLq94LoYzjZTqr6vb4Gu0EXyfYca7GEN9H)| 2 weeks | 4 hours/week
+[Python](https://towardsdatascience.com/a-complete-26-week-course-to-learn-python-for-data-science-in-2022-e95b67551df4)| 26 weeks | 6 hours/week
+[TensorFlow](https://www.youtube.com/playlist?list=PL6vjgQ2-qJFfU2vF6-lG9DlSa4tROkzt9)| 14 weeks | 4 hours/week
+[Unity](https://www.youtube.com/watch?v=gB1F9G0JXOo)| 7 weeks | 4 hours/week
 ```
 Total: 100h
 ```
