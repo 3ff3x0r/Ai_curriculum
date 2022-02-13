@@ -1,5 +1,5 @@
 # About
-This study guide is a list of courses to prepare myself for the POSCOMP exam. Detailed content at the end. Similar and more up-to-date project can be found on [OSSU](https://github.com/ossu/computer-science).
+This study guide is a list of courses to prepare myself for the POSCOMP exam. Detailed content at the end. Similar and more up-to-date project can be found on [OSSU](https://github.com/ossu/computer-science). Most content is in crescent order of complexity and prerequisites (shortened as pr. in the list) are listed after the title. Foundational, Core and Elective contents are to be worked on parallel, always being mindful of possible prerequisites. Some contents are subdivided in such a way that it can be worked more slowly instead of rushing through as a way of enhancing assimilation.  The Foundational content is a complete Calculus review as well as Physics, Linear Algebra, Probability and Logic because one third of the exam focus on these contents. The Elective section is a list of possible subjects that are not central to the exam but might enhance the understanding of certain contents or be important to the PhD research latter and should be suggested during the studies and left to choose only when most of the contents are already completed. Some MOOCs can be a valuable resource and be used to substitute contents in the Foundational or Core sections when they cover the same subject or added as Elective later. But one must be careful that these resources are of the same level required to the exam, as many Coursera/EdX courses favour the industry mainly.
 
 ```
 Basic Knowledge 4,200 hours
@@ -13,8 +13,8 @@ Basic Knowledge 4,200 hours
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[MA101 Mathematical Proof](https://www.amazon.com/How-Prove-Structured-Daniel-Velleman-ebook/dp/B009XBOBL6/ref=mt_kindle?_encoding=UTF8&me=)| 10 weeks | 10 hours/week
-[18.014 Calculus I](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 20 weeks | 10 hours/week
+[MA101 Logic](https://www.amazon.com/How-Prove-Structured-Daniel-Velleman-ebook/dp/B009XBOBL6/ref=mt_kindle?_encoding=UTF8&me=)| 10 weeks | 10 hours/week
+[18.014 Single variable Calculus](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 20 weeks | 10 hours/week
 [18.06 Linear Algebra (pr 18.014)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)| 20 weeks | 10 hours/week
 [18.02 Multivariable Calculus (pr 18.014)](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-spring-2006/)| 20 weeks | 10 hours/week
 [8.01 Fundamentals of Physics I (pr 18.014)](http://oyc.yale.edu/physics/phys-200)| 20 weeks | 10 hours/week
