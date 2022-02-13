@@ -62,7 +62,7 @@ Courses | Duration | Effort
 [ECON159 Game Theory (pr. 14.01, 18.05)](http://oyc.yale.edu/economics/econ-159)| 6 weeks | 10 hours/week
 
 ```
-Total: 780h
+Total: 720h
 ```
 ### IV - Complementary Activities 
 Courses | Duration | Effort
