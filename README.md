@@ -1,5 +1,5 @@
 # About
-This study guide is a list of courses to prepare myself for the POSCOMP exam. Detailed content at the end. Similar and more up-to-date project can be found on [OSSU] (https://github.com/ossu/computer-science)
+This study guide is a list of courses to prepare myself for the POSCOMP exam. Detailed content at the end. Similar and more up-to-date project can be found on [OSSU]  (https://github.com/ossu/computer-science) [MA101 Mathematical Proof](https://www.amazon.com/How-Prove-Structured-Daniel-Velleman-ebook/dp/B009XBOBL6/ref=mt_kindle?_encoding=UTF8&me=)
 
 ```
 Basic Knowledge 4,200 hours
