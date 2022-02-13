@@ -88,7 +88,7 @@ Total: 0h
 ```
 *MOOCs and Other courses might be used to replace main courses when suitable.
 
-|------|
+---
 #### Conteúdo da prova POSCOMP 2016
 
 ##### Matemática
