@@ -31,6 +31,7 @@ Courses | Duration | Effort
 [6.001 Structure and Interpretation of Computer Programs A](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)| 10 weeks | 10 hours/week
 [6.001 Structure and Interpretation of Computer Programs B](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)| 10 weeks | 10 hours/week
 [6.001 Structure and Interpretation of Computer Programs C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)| 10 weeks | 10 hours/week
+[24.241 Logic I (pr 6.046J)](https://cs162.eecs.berkeley.edu/)| 6 weeks | 10 hours/week
 [18.062J Mathematics for Computer Science A](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)| 10 weeks | 10 hours/week
 [18.062J Mathematics for Computer Science B](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)| 10 weeks | 10 hours/week
 [6.02 Introduction to EECS II: Digital Communication Systems (pr 18.02)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/)| 20 weeks | 10 hours/week
@@ -40,7 +41,6 @@ Courses | Duration | Effort
 [18.315 Combinatorial Theory](https://ocw.mit.edu/courses/mathematics/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/)| 6 weeks | 10 hours/week
 [CS162 Operating Systems](https://cs162.eecs.berkeley.edu/)| 6 weeks | 10 hours/week
 [	6.034 Artificial Intelligence (pr 6.046J, 18.06)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)| 20 weeks | 10 hours/week
-[24.241 Logic I (pr 6.046J)](https://cs162.eecs.berkeley.edu/)| 6 weeks | 10 hours/week
 [6.045J Automata, computability and complexity (pr 6.042, 18.062J)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/)| 6 weeks | 10 hours/week
 [6.875 Cryptography and Cryptanalysis (pr MA101, 6.046J, 18.05)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-875-cryptography-and-cryptanalysis-spring-2005/)| 6 weeks | 10 hours/week
 [6.050J Information Entropy (pr 8.014)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/)| 6 weeks | 10 hours/week
