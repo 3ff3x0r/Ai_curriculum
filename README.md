@@ -75,7 +75,6 @@ Total: 100h
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) | 1 week | 8 hours/week
 [Information Theory](https://www.coursera.org/learn/information-theory/home/welcome) | 15 week | 2 hours/week
 [LAFF: Linear Algebra - Foundations to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.04x+3T2016/info) | 12 weeks | 16 hours/week
 [LAFF: On programming for Correctness](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.04x+3T2016/info) | 12 weeks | 16 hours/week
