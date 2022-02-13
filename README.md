@@ -76,7 +76,13 @@ Total: 100h
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) | 1 week | 8 hours/week
+[Information Theory](https://www.coursera.org/learn/information-theory/home/welcome) | 15 week | 2 hours/week
 [LAFF: Linear Algebra - Foundations to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.04x+3T2016/info) | 12 weeks | 16 hours/week
+[LAFF: On programming for Correctness](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.04x+3T2016/info) | 12 weeks | 16 hours/week
+[LAFF: On programming for High Performance](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.04x+3T2016/info) | 12 weeks | 16 hours/week
+[Advanced Linear Algebra: Foundations to Frontiers](https://learning.edx.org/course/course-v1:UTAustinX+UT.ALA+1T2022/home) | 12 weeks | 8 hours/week
+[Introduction to Computer Science and Programming Using Python](https://learning.edx.org/course/course-v1:MITx+6.00.1x+1T2022/home) | 4 weeks | 16 hours/week
+[Introduction to Computational Thinking and Data Science](https://learning.edx.org/) | 8 weeks | 8 hours/week
 [CS50 Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  | 9 weeks | 16 hour/week
 ```
 Total: 0h
