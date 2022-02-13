@@ -5,7 +5,7 @@ This study guide is a list of courses to prepare myself to study Artificial Inte
 Basic Knowledge 4,200 hours
 5 year (lazy) 20h/week
 3 year (normal) 40h/week
-2 year (hardcore) 50h/week
+2 year (hardcore) over 50h/week
 ```
 
 
