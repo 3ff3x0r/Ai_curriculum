@@ -1,85 +1,85 @@
 Completion List
 
 ### I - Foundational (minimum 5)
-- [ ]	[Mathematical Proof] (#mathematical-proof)   ![progressed](http://progressed.io/bar/15?)
-- [ ]	[Naive Set Theory] (#naive-set-theory) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Number Theory] (#number-theory) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Structure and Interpretation of Computer Programs A] (#sicp) ![Progress](http://progressed.io/bar/30?)
-- [ ]	[Structure and Interpretation of Computer Programs B] (#sicp) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Structure and Interpretation of Computer Programs C] (#sicp) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Mathematics for Computer Science A] (#mathematics4cs) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Mathematics for Computer Science B] (#mathematics4cs) ![Progress](http://progressed.io/bar/0?)
+- [ ]	[Logic] (#Logic)   
+- [ ]	[Naive Set Theory] (#naive-set-theory) 
+- [ ]	[Number Theory] (#number-theory) 
+- [ ]	[Structure and Interpretation of Computer Programs A] (#sicp) 
+- [ ]	[Structure and Interpretation of Computer Programs B] (#sicp) 
+- [ ]	[Structure and Interpretation of Computer Programs C] (#sicp)  
+- [ ]	[Mathematics for Computer Science A] (#mathematics4cs)  
+- [ ]	[Mathematics for Computer Science B] (#mathematics4cs)  
 
 
 ### II - Core (all 16)
-- [x]	[Calculus I] (#calculus-i) ![Progress](http://progressed.io/bar/100?)
-- [ ]	[Multivariable Calculus] (#multivariable-calculus) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Physics I] (#Physics-i) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Differential Equations] (#Differential-Equations) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Analysis I] (#analysis-i) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Physics II] (#Physics-ii) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Introduction to EECS II: Digital Communication Systems] (#EECS-ii) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Physics III] (#Physics-iii) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Circuits and Electronics] (#Circuits-and-Electronics) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Computation Structures] (#Computation-Structures) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Computer System Engineering] (#Computer-System-Engineering) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Linear Algebra] (#Linear-Algebra) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Abstract Algebra] (#Abstract-Algebra) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Introduction to Probability and Statistics] (#Introduction-to-Probability-and-Statistics) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Introduction to Algorithms] (#Introduction-to-Algorithms) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Artificial Intelligence] (#Artificial-Intelligence) ![Progress](http://progressed.io/bar/0?)
+- [ ]	[Calculus ] (#calculus-i)  
+- [ ]	[Multivariable Calculus] (#multivariable-calculus)  
+- [ ]	[Physics I] (#Physics-i)  
+- [ ]	[Differential Equations] (#Differential-Equations)  
+- [ ]	[Analysis I] (#analysis-i)  
+- [ ]	[Physics II] (#Physics-ii)  
+- [ ]	[Introduction to EECS II: Digital Communication Systems] (#EECS-ii)  
+- [ ]	[Physics III] (#Physics-iii)  
+- [ ]	[Circuits and Electronics] (#Circuits-and-Electronics)  
+- [ ]	[Computation Structures] (#Computation-Structures)  
+- [ ]	[Computer System Engineering] (#Computer-System-Engineering)  
+- [ ]	[Linear Algebra] (#Linear-Algebra)  
+- [ ]	[Abstract Algebra] (#Abstract-Algebra)  
+- [ ]	[Introduction to Probability and Statistics] (#Introduction-to-Probability-and-Statistics)  
+- [ ]	[Introduction to Algorithms] (#Introduction-to-Algorithms)  
+- [ ]	[Artificial Intelligence] (#Artificial-Intelligence)  
 
 ### III - Elective (minimum 10)
-- [ ]	[Principles of Microeconomics] (#Principles-of-Microeconomics) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Game Theory] (#Game-Theory) ![Progress](http://progressed.io/bar/0?)
-- [x]	[Society of Mind] (#Society-of-Mind) ![Progress](http://progressed.io/bar/100?)
-- [ ]	[The fundamentals of Neuroscience] (#The-fundamentals-of-Neuroscience) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Cognitive Sciences] (#Cognitive-Sciences) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Combinatorial Theory] (#Combinatorial Theory) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Operating Systems] (#Operating Systems) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Logic I] (#Logic-i) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Automata, computability and complexity] (#Automata-computability-and-complexity) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Cryptography and Cryptanalysis] (#Cryptography-and-Cryptanalysis) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Advanced Topics in Cryptography] (#Advanced-Topics-in-Cryptography) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Information Entropy] (#Information-Entropy) ![Progress](http://progressed.io/bar/0?)
-- [ ]	[Machine Learning]  (#Machine-Learning) ![Progress](http://progressed.io/bar/0?)
-- [ ] Databases (pr. 6.033) 120h (to be planned - TBP) ![Progress](http://progressed.io/bar/0?)
-- [ ] Overview of Big Data, Cloud and IoT (TBP) ![Progress](http://progressed.io/bar/0?)
-- [ ] Computer Networking (pr 18.02,18.05,6.004)  120h	(TBP) ![Progress](http://progressed.io/bar/0?)
-- [ ] Deep Learning (pr. CS229) 120h (TBP) ![Progress](http://progressed.io/bar/0?)
-- [ ] Computer Vision - I  120h (TBP) ![Progress](http://progressed.io/bar/0?)
-- [ ] Computer Vision - II 120h (TBP) ![Progress](http://progressed.io/bar/0?)
-- [x] [Introduction to Artificial Neural Networks] (http://anaclise.blogspot.com.br/2016/08/bases-conexionistas-do-machine-learning.html) ![Progress](http://progressed.io/bar/100?)
-- [ ] Advanced Neural Networks (ANN-II) 120h (TBP) ![Progress](http://progressed.io/bar/0?)
-- [ ] Projects of Neural Networks (ANN-III)  120h (TBP) ![Progress](http://progressed.io/bar/0?)
+- [ ]	[Principles of Microeconomics] (#Principles-of-Microeconomics)  
+- [ ]	[Game Theory] (#Game-Theory)  
+- [x]	[Society of Mind] (#Society-of-Mind)  
+- [ ]	[The fundamentals of Neuroscience] (#The-fundamentals-of-Neuroscience)  
+- [ ]	[Cognitive Sciences] (#Cognitive-Sciences)  
+- [ ]	[Combinatorial Theory] (#Combinatorial Theory)  
+- [ ]	[Operating Systems] (#Operating Systems)  
+- [ ]	[Logic I] (#Logic-i)  
+- [ ]	[Automata, computability and complexity] (#Automata-computability-and-complexity)  
+- [ ]	[Cryptography and Cryptanalysis] (#Cryptography-and-Cryptanalysis)  
+- [ ]	[Advanced Topics in Cryptography] (#Advanced-Topics-in-Cryptography)  
+- [ ]	[Information Entropy] (#Information-Entropy)  
+- [ ]	[Machine Learning]  (#Machine-Learning)  
+- [ ] Databases (pr. 6.033) 120h (to be planned - TBP)  
+- [ ] Overview of Big Data, Cloud and IoT (TBP)  
+- [ ] Computer Networking (pr 18.02,18.05,6.004)  120h	(TBP)  
+- [ ] Deep Learning (pr. CS229) 120h (TBP)  
+- [ ] Computer Vision - I  120h (TBP)  
+- [ ] Computer Vision - II 120h (TBP)  
+- [x] [Introduction to Artificial Neural Networks] (http://anaclise.blogspot.com.br/2016/08/bases-conexionistas-do-machine-learning.html)  
+- [ ] Advanced Neural Networks (ANN-II) 120h (TBP)  
+- [ ] Projects of Neural Networks (ANN-III)  120h (TBP)  
 
 ### IV - Complementary Activities (100h)
-- [ ]	Tutorial: Python 20h (pr 6.001) ![Progress](http://progressed.io/bar/0?)
-- [x]	Tutorial: Emacs 20h  ![Progress](http://progressed.io/bar/100?)
-- [ ]	Tutorial: Latex 20h (pr. Emacs) ![Progress](http://progressed.io/bar/0?)
-- [ ]	Tutorial: How to write a scientific paper on Latex 20h (pr. Latex) ![Progress](http://progressed.io/bar/0?)
-- [ ]	Tutorial: [Matlab] (https://matlabacademy.mathworks.com/) 20h  ![Progress](http://progressed.io/bar/50?)
+- [ ]	Tutorial: Python 20h (pr 6.001)   
+- [x]	Tutorial: Emacs 20h    
+- [ ]	Tutorial: Latex 20h (pr. Emacs)   
+- [ ]	Tutorial: How to write a scientific paper on Latex 20h (pr. Latex)   
+- [ ]	Tutorial: [Matlab] (https://matlabacademy.mathworks.com/) 20h    
 
 ### V - MOOCs 
-- [ ]	Coursera: Medical Neurosciences 192h ![Progress](http://progressed.io/bar/0?)
-- [ ]	Coursera: Learning How to Learn: Powerful mental tools to help you master tough subjects 8h ![Progress](http://progressed.io/bar/0?)
-- [ ]	Coursera: Visual Perception and the Brain 80h ![Progress](http://progressed.io/bar/0?)
-- [ ]	edX: UT.5.04x LAFF: Linear Algebra - Foundations to Frontiers 192h ![Progress](http://progressed.io/bar/0?)
-- [ ]	edX: HarvardX CS50 Introduction to Computer Science 144h ![Progress](http://progressed.io/bar/0?)
+- [ ]	Coursera: Medical Neurosciences 192h   
+- [ ]	Coursera: Learning How to Learn: Powerful mental tools to help you master tough subjects 8h   
+- [ ]	Coursera: Visual Perception and the Brain 80h   
+- [ ]	edX: UT.5.04x LAFF: Linear Algebra - Foundations to Frontiers 192h   
+- [ ]	edX: HarvardX CS50 Introduction to Computer Science 144h   
 
 ### VI - Grad School
-- [x] UFRJ/HCTE Cognição e computação I  60h  ![Progress](http://progressed.io/bar/100?)
-- [x] UFRJ/HCTE Cognição e computação II 60h  ![Progress](http://progressed.io/bar/100?)
-- [x] Datacenters 1 Conceitos Infraestrutura Datac 45h  ![Progress](http://progressed.io/bar/100?)
-- [ ] Datacenters 2 Disp Qualidade Operacio Datace 30h  ![Progress](http://progressed.io/bar/50?)
-- [ ] Datacenters 3 Normas Classificação Datacente 30h  ![Progress](http://progressed.io/bar/0?)
-- [ ] Datacenters 4 Gestão de Projetos de Inovação 60h  ![Progress](http://progressed.io/bar/0?)
-- [ ] Datacenters 5 Gestão dos Ativos do Datacente 30h  ![Progress](http://progressed.io/bar/0?)
-- [ ] Datacenters 6 Gestão Infraestrutura Datacent 30h  ![Progress](http://progressed.io/bar/0?)
-- [ ] Datacenters 7 Cloud - Computação em Nuvem    30h  ![Progress](http://progressed.io/bar/0?)
-- [ ] Datacenters 8 Internet das Coisas            45h  ![Progress](http://progressed.io/bar/0?)
-- [ ] Datacenters 9 Metodologia Pesquisa Cientíca  30h  ![Progress](http://progressed.io/bar/0?)
-- [ ] Datacenters 10 Serviços Colocat Hostin Telec 30h  ![Progress](http://progressed.io/bar/0?)
-- [ ] Datacenters 11 Traba Con Cur Dat Proj Ope Se 30h  ![Progress](http://progressed.io/bar/0?)
+- [x] UFRJ/HCTE Cognição e computação I  60h    
+- [x] UFRJ/HCTE Cognição e computação II 60h    
+- [x] Datacenters 1 Conceitos Infraestrutura Datac 45h    
+- [x] Datacenters 2 Disp Qualidade Operacio Datace 30h    
+- [x] Datacenters 3 Normas Classificação Datacente 30h    
+- [x] Datacenters 4 Gestão de Projetos de Inovação 60h    
+- [x] Datacenters 5 Gestão dos Ativos do Datacente 30h    
+- [x] Datacenters 6 Gestão Infraestrutura Datacent 30h    
+- [x] Datacenters 7 Cloud - Computação em Nuvem    30h    
+- [x] Datacenters 8 Internet das Coisas            45h    
+- [x] Datacenters 9 Metodologia Pesquisa Cientíca  30h    
+- [x] Datacenters 10 Serviços Colocat Hostin Telec 30h    
+- [x] Datacenters 11 Traba Con Cur Dat Proj Ope Se 30h    
 
-* Total Completion: ![Progress](http://progressed.io/bar/575?scale=4200&suffix=h)  
+* Total Completion:  (http://progressed.io/bar/575?scale=4200&suffix=h)  
