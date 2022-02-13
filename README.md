@@ -47,7 +47,7 @@ Courses | Duration | Effort
 [CS229 Machine Learning](http://cs229.stanford.edu/)| 6 weeks | 10 hours/week
 [CS 148 Introduction to Computer Graphics and Imaging](https://web.stanford.edu/class/cs148/showcase.html)| 6 weeks | 10 hours/week
 ```
-Total: 3000h
+Total: 1980h
 ```
 ### III - Elective 
 
