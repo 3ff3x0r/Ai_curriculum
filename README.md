@@ -67,7 +67,9 @@ Total: 720h
 ### IV - Complementary Activities 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Collect certificates of extra activities on recommended subjects]
+[EMACS]
+[LATEX]
+[Python]
 ```
 Total: 100h
 ```
