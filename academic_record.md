@@ -1,7 +1,7 @@
 Completion List
 
 ### I - Foundational (minimum 5)
-- [ ]	[Logic] (#MA101 Logic)   
+- [ ]	[Logic](#MA101 Logic)   
 - [ ]	[Naive Set Theory] (#naive-set-theory) 
 - [ ]	[Number Theory] (#number-theory) 
 - [ ]	[Structure and Interpretation of Computer Programs A] (#sicp) 
