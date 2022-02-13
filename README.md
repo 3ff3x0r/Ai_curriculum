@@ -1,5 +1,5 @@
 # About
-This study guide is a list of courses to prepare myself to study Artificial Intelligence.
+This study guide is a list of courses to prepare myself for the POSCOMP exam.
 
 ```
 Basic Knowledge 4,200 hours
