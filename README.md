@@ -45,7 +45,7 @@ Courses | Duration | Effort
 [6.875 Cryptography and Cryptanalysis (pr MA101, 6.046J, 18.05)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-875-cryptography-and-cryptanalysis-spring-2005/)| 6 weeks | 10 hours/week
 [6.050J Information Entropy (pr 8.014)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/)| 6 weeks | 10 hours/week
 [CS229 Machine Learning](http://cs229.stanford.edu/)| 6 weeks | 10 hours/week
-
+[CS 148 Introduction to Computer Graphics and Imaging](https://web.stanford.edu/class/cs148/showcase.html)| 6 weeks | 10 hours/week
 ```
 Total: 3000h
 ```
