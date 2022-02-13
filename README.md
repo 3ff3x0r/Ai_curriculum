@@ -1,5 +1,5 @@
 # About
-This study guide is a list of courses to prepare myself for the POSCOMP exam. Detailed content at the end.
+This study guide is a list of courses to prepare myself for the POSCOMP exam. Detailed content at the end. Similar and more up-to-date project can be found on [OSSU] (https://github.com/ossu/computer-science)
 
 ```
 Basic Knowledge 4,200 hours
