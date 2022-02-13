@@ -1,5 +1,5 @@
 # About
-This study guide is a list of courses to prepare myself for the POSCOMP exam. Detailed content at the end. Similar and more up-to-date project can be found on [OSSU](https://github.com/ossu/computer-science)
+This study guide is a list of courses to prepare myself for the POSCOMP exam. Detailed content at the end. Similar and more up-to-date project can be found on [OSSU](https://github.com/ossu/computer-science).
 
 ```
 Basic Knowledge 4,200 hours
@@ -89,7 +89,7 @@ Total: 0h
 *MOOCs and Other courses might be used to replace main courses when suitable.
 
 ---
-#### Conteúdo da prova POSCOMP 2016
+#### Conteúdo da prova POSCOMP 2016 (Source: https://github.com/paladini/awesome-poscomp)
 
 ##### Matemática
 | Matéria | Descrição |
