@@ -51,11 +51,7 @@ Total: 3000h
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[14.01 Principles of Microeconomics  (pr. 18.014)](https://ocw.mit.edu/courses/economics/14-01-principles-of-microeconomics-fall-2007/)| 6 weeks | 10 hours/week
 [ECON159 Game Theory (pr. 14.01, 18.05)](http://oyc.yale.edu/economics/econ-159)| 6 weeks | 10 hours/week
-[6.868J Society of Mind](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/)| 6 weeks | 10 hours/week
-[MCB80x The fundamentals of Neuroscience](https://www.mcb80x.org/)| 6 weeks | 10 hours/week
-[COG101 Cognitive Science (pr. PSY114, MCB80x)](https://www.amazon.com/Minds-New-Science-Cognitive-Revolution-ebook/dp/B00CW0PVR8/ref=sr_1_5?s=digital-text&ie=UTF8&qid=1477498702&sr=1-5)| 6 weeks | 10 hours/week
 [18.315 Combinatorial Theory](https://ocw.mit.edu/courses/mathematics/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/)| 6 weeks | 10 hours/week
 [CS162 Operating Systems](https://cs162.eecs.berkeley.edu/)| 6 weeks | 10 hours/week
 [24.241 Logic I (pr 6.046J)](https://cs162.eecs.berkeley.edu/)| 6 weeks | 10 hours/week
