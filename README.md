@@ -17,9 +17,9 @@ Courses | Duration | Effort
 [18.014 Calculus I](https://ocw.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/)| 20 weeks | 10 hours/week
 [18.06 Linear Algebra (pr 18.014)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)| 20 weeks | 10 hours/week
 [18.02 Multivariable Calculus (pr 18.014)](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-spring-2006/)| 20 weeks | 10 hours/week
-[8.01 Physics I (pr 18.014)](http://oyc.yale.edu/physics/phys-200)| 20 weeks | 10 hours/week
+[8.01 Fundamentals of Physics I (pr 18.014)](http://oyc.yale.edu/physics/phys-200)| 20 weeks | 10 hours/week
 [18.03 Differential Equations (pr 18.02)](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)| 20 weeks | 10 hours/week
-[8.02 Physics II: Electricity and Magnetism (pr 18.02)](http://oyc.yale.edu/physics/phys-201)| 20 weeks | 10 hours/week
+[8.02 Fundamentals of Physics II: Electricity and Magnetism (pr 18.02)](http://oyc.yale.edu/physics/phys-201)| 20 weeks | 10 hours/week
 [18.05 Introduction to Probability and Statistics (pr 18.014)](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)| 20 weeks | 10 hours/week
 ```
 Total: 1500h
