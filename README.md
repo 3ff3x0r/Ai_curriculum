@@ -71,7 +71,7 @@ Courses | Duration | Effort
 ```
 Total: 100h
 ```
-### V - MOOCs 
+### V - MOOCs and Other Courses
 
 Courses | Duration | Effort
 :-- | :--: | :--:
@@ -86,9 +86,4 @@ Courses | Duration | Effort
 ```
 Total: 0h
 ```
-### VI - Other Courses 
-
-Courses | Duration | Effort
-:-- | :--: | :--:
-```
-Total: 0h
+*MOOCs and Other courses might be used to replace main courses when suitable.
