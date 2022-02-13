@@ -28,7 +28,6 @@ Total: 800h
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-
 [6.001 Structure and Interpretation of Computer Programs A](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)| 10 weeks | 10 hours/week
 [6.001 Structure and Interpretation of Computer Programs B](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)| 10 weeks | 10 hours/week
 [6.001 Structure and Interpretation of Computer Programs C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)| 10 weeks | 10 hours/week
