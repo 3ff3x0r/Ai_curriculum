@@ -22,7 +22,7 @@ Courses | Duration | Effort
 [8.02 Physics II: Electricity and Magnetism (pr 18.02)](http://oyc.yale.edu/physics/phys-201)| 20 weeks | 10 hours/week
 [18.05 Introduction to Probability and Statistics (pr 18.014)](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)| 20 weeks | 10 hours/week
 ```
-Total: 800h
+Total: 1500h
 ```
 ### II - Core
 
