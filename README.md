@@ -88,6 +88,9 @@ Courses | Duration | Effort
 [Introduction to Computational Thinking and Data Science](https://learning.edx.org/) | 8 weeks | 8 hours/week
 [CS50 Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  | 12 weeks | 16 hour/week
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/courses?query=from%20nand%20to%20tetris)  | 8 weeks | 16 hour/week
+[Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science#courses)  | 48 weeks | 7 hour/week
+[Data Science: Statistics and Machine Learning Specialization](https://www.coursera.org/specializations/data-science-statistics-machine-learning#courses)  | 48 weeks | 6 hour/week
+[Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science)  | 26 weeks | 6 hour/week
 ```
 Total: 0h
 ```
