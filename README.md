@@ -30,5 +30,3 @@
 ---
 
 ## 🧮 Total Study Time Estimate: `1,330 hours`
-
-> ⏱️ Adjust based on your pace and familiarity. Add 10–15% buffer if needed.
