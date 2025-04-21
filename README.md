@@ -1,7 +1,5 @@
 # 📚 Comprehensive PhD Entrance Study Plan (Mathematics + CS Foundation)
 
-> Tailored for PhD entrance exams covering: Linear Algebra, Combinatorics, Calculus, Analytic Geometry, Logic, Discrete Math, Probability & Stats, and CS Fundamentals.
-
 | Area | Topic | Primary Book | OCW / MOOC | Study Strategy | Hours | Observations |
 |------|-------|--------------|------------|----------------|-------|--------------|
 | 🔶 Math Foundations | Mathematical Logic | Enderton – *Intro to Logic* + Velleman – *How to Prove It* | MA101 (Velleman Lectures) | Combine Enderton’s rigor with Velleman’s pedagogy. Make dense notes & proof drills. | 50h | Focus on syntax, semantics, and proof techniques. Skip Gödel incompleteness unless time allows. |
