@@ -1,4 +1,4 @@
-# 📚 Comprehensive PhD Entrance Study Plan (Mathematics + CS Foundation)
+# Comprehensive PhD Entrance Study Plan (Mathematics + CS Foundation)
 
 | Area | Topic | Primary Book | OCW / MOOC | Study Strategy | Hours | Observations |
 |------|-------|--------------|------------|----------------|-------|--------------|
@@ -27,4 +27,4 @@
 
 ---
 
-## 🧮 Total Study Time Estimate: `1,330 hours`
+## Total Study Time Estimate: `1,330 hours`
