@@ -1,5 +1,5 @@
 # Comprehensive PhD Entrance Study Plan
-## (Mathematics + CS Foundation)
+*(Mathematics + CS Foundation)*
 
 | Area | Topic | Primary Book | OCW / MOOC | Study Strategy | Hours | Observations |
 |------|-------|--------------|------------|----------------|-------|--------------|
