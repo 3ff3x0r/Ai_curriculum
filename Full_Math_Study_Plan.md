@@ -1,7 +1,7 @@
 
 # 🧠 Full Math Study Plan (Halmos to Topology)
 
-This is a complete, sprint-based roadmap from foundational math to advanced topics, finishing with intensive topology prep for PhD admission.
+This is a complete, sprint-based roadmap from foundational math to advanced topics
 
 ## 📅 Timeline Overview (Sequential Phases)
 
@@ -55,7 +55,3 @@ For each topic, track:
 - [ ] Exercises attempted
 - [ ] Notes summarized
 - [ ] Mock questions solved
-
----
-
-This file is designed to be copied to your GitHub study repo. Update it sprint by sprint, and log progress weekly.
